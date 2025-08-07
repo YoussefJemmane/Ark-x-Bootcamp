@@ -44,7 +44,6 @@ function groupByGenre() {
   }
   return groupedBooks;
 }
-console.log(groupByGenre());
 
 function sortBooksByPrice() {
   const sortedBooks = [];

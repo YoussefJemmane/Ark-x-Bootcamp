@@ -1,4 +1,3 @@
-// Insertion Sort : Create an algorithm that constructs a sorted array incrementally.
 function insertionSort(arr) {
     let n = arr.length;
     for (let i = 1; i < n; i++) {

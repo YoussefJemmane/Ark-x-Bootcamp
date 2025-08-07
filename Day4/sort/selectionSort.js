@@ -1,4 +1,3 @@
-// Selection Sort : Develop a sorting algorithm by strategically selecting and arranging elements.
 function selectionSort(arr) {
     let n = arr.length;
     for (let i = 0; i < n - 1; i++) {

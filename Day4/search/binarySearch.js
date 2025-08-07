@@ -1,4 +1,3 @@
-// Binary Search : Develop an advanced search algorithm suitable for sorted arrays.
 function binarySearch(arr, target) {
     let left = 0;
     let right = arr.length - 1;
@@ -17,7 +16,6 @@ function binarySearch(arr, target) {
     return -1; // Return -1 if the element is not found
 }
 
-// Example usage:
 const sortedNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const target = 6
 const index = binarySearch(sortedNumbers, target);

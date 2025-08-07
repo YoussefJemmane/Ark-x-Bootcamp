@@ -14,4 +14,4 @@ const mostOccurred = (arr) => {
   return mostOccurredNum;
 };
 
-console.log(mostOccurred([4, 2, 6, 6, 2])); // ➞ 2
+console.log(mostOccurred([4, 2, 6, 6, 2])); 
